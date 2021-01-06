@@ -1,10 +1,8 @@
-# fraud-detection
+# Credit Card Fraud Detection
 
 # Table of contents
 
-Credit Card Fraud Detection
-
-     In this first step you are going to analyze the dataset
+In this first step you are going to analyze the dataset
      Is there any Null value in your dataset?
      Display the columns of the dataset
      Display in percentage the different case(No Frauds, Frauds) present in the dataset
