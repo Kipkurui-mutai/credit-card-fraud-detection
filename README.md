@@ -2,12 +2,13 @@
 
 # Table of contents
 
-In this first step you are going to analyze the dataset
+In this first step you are going to analyze the dataset.
+
      Is there any Null value in your dataset?
-     Display the columns of the dataset
-     Display in percentage the different case(No Frauds, Frauds) present in the dataset
-     Use different colors in other to visualize the distributions of the different case
-     Plot the distribution of of the transaction Amount and transaction time
+     Display the columns of the dataset.
+     Display in percentage the different case(No Frauds, Frauds) present in the dataset.
+     Use different colors in other to visualize the distributions of the different case.
+     Plot the distribution of of the transaction Amount and transaction time.
 
 Scaling and Distributing
 
